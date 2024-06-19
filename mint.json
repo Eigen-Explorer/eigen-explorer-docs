@@ -47,6 +47,10 @@
             "pages": ["introduction", "changelog", "roadmap"]
         },
         {
+            "group": "AVS Liquid Staking",
+            "pages": ["liquid-staking-for-avs/introduction"]
+        },
+        {
             "group": "Data",
             "pages": [
                 "data/avs",
